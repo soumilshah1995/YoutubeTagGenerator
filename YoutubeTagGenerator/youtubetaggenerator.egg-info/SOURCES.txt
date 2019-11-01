@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+youtubetaggenerator/youtubetaggenerator.py
+youtubetaggenerator.egg-info/PKG-INFO
+youtubetaggenerator.egg-info/SOURCES.txt
+youtubetaggenerator.egg-info/dependency_links.txt
+youtubetaggenerator.egg-info/requires.txt
+youtubetaggenerator.egg-info/top_level.txt
